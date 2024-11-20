@@ -26,5 +26,4 @@ Significant stock price changes: Which stocks show strong correlations between s
 Buy/Sell Signals: Possible trading signals based on spikes in positive or negative sentiment.
 Market Sensitivity: Which stocks are most sensitive to social media sentiment.
 
-# Contributing
-Contributions are welcome! If you have ideas for improvements or new features, please feel free to submit a pull request
+
